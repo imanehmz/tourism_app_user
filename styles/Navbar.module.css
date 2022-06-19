@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope&display=swap');
+
+.container {
+    width: 100%;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 0rem 4rem 0rem 4rem;
+}
+
+
+.container a {
+font-family: 'Manrope';
+font-weight: 600;
+color: black;
+}
+
+.active {
+    color: (--VioletColor);
+}
